@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color:#c5bda0;
+  font-family: 'Lato', sans-serif;
+  font-stretch: semi-expanded;
+}
+.btn a{
+  text-decoration: none;
+  color:#3A2E25;
+  font-weight: bold;
+}
+
+.btn a:hover{
+  color:#7E6551;
+}
+h1{
+  font-size: 40px;
+}
+h4{
+  font-size: 30px;
+}
+h5{
+  padding-top:30px;
+  font-size:25px;
+  font-weight: bold;
+}
+.status{
+  text-align: left;
+}
+.card{
+  box-shadow: 20px solid white;
+}
+
+tbody tr td{
+ margin-left:20px;
+  font-size:20px;
+}
+.status{
+  box-shadow: 30px black;
+}
